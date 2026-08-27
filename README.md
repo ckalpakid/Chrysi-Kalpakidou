@@ -1,5 +1,12 @@
 # Chrysi-Kalpakidou
 Chrysi's data
+
+
+How to cite
+Kalpakidou, C. (2026). PL-FC process-evaluation dataset, 2022–23 and 2023–24 [Data set]. GitHub. <https://github.com/ckalpakid/Chrysi-Kalpakidou>
+
+
+
 PL-FC Process-Evaluation Dataset (De-identified), 2022–23 and 2023–24
 
 De-identified response-level data from two consecutive implementations of the Peer-Learning Flipped Classroom (PL-FC) model in the first-year Mathematics course of the Department of Civil Engineering, Democritus University of Thrace.
