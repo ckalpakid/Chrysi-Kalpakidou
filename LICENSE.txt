@@ -32,7 +32,7 @@ force. The licence is the legal code in the link below.)
 HOW TO CITE
 
   Kalpakidou, C. (2026). PL-FC process-evaluation dataset, 2022-23 and 2023-24
-  [Data set]. GitHub. <REPOSITORY URL>
+  [Data set]. GitHub. <https://github.com/ckalpakid/Chrysi-Kalpakidou>
 
 A NOTE ON WHAT IS AND IS NOT LICENSED HERE
 
