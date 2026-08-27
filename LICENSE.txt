@@ -47,8 +47,6 @@ and no attempt to re-identify any participant is permitted.
                                 LEGAL CODE
 -------------------------------------------------------------------------------
 
->>> INSERT THE OFFICIAL LICENCE TEXT BELOW THIS LINE, THEN DELETE THESE FOUR
->>> LINES. Copy it verbatim, without editing a word, from:
->>>
->>>     https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
+
+     https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
 
