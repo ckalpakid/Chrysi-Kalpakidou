@@ -11,7 +11,7 @@ Attribution-NonCommercial-ShareAlike 4.0 International Public License.
 
 WHAT THIS MEANS IN SHORT
 (This summary is for orientation only. It is not the licence and has no legal
-force. The licence is the legal code reproduced below.)
+force. The licence is the legal code in the link below.)
 
   You may       copy and redistribute the dataset in any medium or format,
                 and remix, transform and build upon it.
